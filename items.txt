@@ -1,0 +1,30 @@
+Keratin Gold	41	8.0
+Pantene Shampoo	64	10.0
+Cream Silk	79	10.0
+Rejoice	83	6.0
+Palmolive	93	10.0
+Bear Brand	47	230.0
+nido	40	250.0
+Alaska	47	180.0
+Piattos	79	15.0
+Pic-A	75	40.0
+Roller Coaster	80	8.0
+Nova	78	15.0
+Chippy	80	13.0
+Crispy Patata	80	10.0
+Super Crunch	79	8.0
+Nescafe	46	25.0
+Great Taste	49	20.0
+Coffee Mate	50	40.0
+Nescafe 3in1	41	8.0
+Kopiko 3in1	40	10.0
+Great Taste 3in1	45	8.0
+Milo	25	260.0
+UFC Ketchup	15	160.0
+Papa Ketchup	15	140.0
+Neu Bake	10	45.0
+Gardenia	10	50.0
+FC	10	35.0
+Washed Sugar	20	35.0
+Brown Sugar	20	35.0
+White Sugar	20	40.0
